@@ -31,11 +31,17 @@
 	background-size: cover;
 }
 
+.titulo-creamy {
+	margin-top: 10%;
+}
+
 .cuadro-oscuro {
-	background-color: rgba(7, 7, 7, 0.5);
-	padding: 140px 0;
-	opacity: 0.5;
-	filter: alpha(opacity=);
+	background-color:rgba(62, 63, 64, .5);
+	height: 400px;
+}
+
+.oh, .ice, .about {
+	margin-top: 5%;
 }
 
 .fondo-amarillo {
@@ -57,4 +63,8 @@
 .desktop, .tag, .love {
 	font-size: 100px;
 	color: #DA2C38;
+}
+
+.footer {
+	padding: 2%;
 }
