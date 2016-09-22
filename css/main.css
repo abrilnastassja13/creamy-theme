@@ -26,7 +26,7 @@
 
 .creamy {
 	background-image: url(../img/creamy.jpg);
-	background-position: center;
+	background-position: center center;
 	height: 500px;
 	background-size: cover;
 }
@@ -35,9 +35,10 @@
 	margin-top: 10%;
 }
 
-.cuadro-oscuro {
-	background-color:rgba(62, 63, 64, .5);
-	height: 400px;
+
+.cuadro {
+	background-color: rgba(0, 0, 0, 0.4);
+	height: 500px;
 }
 
 .oh, .ice, .about {
@@ -60,7 +61,7 @@
 	padding: 5%;
 }
 
-.desktop, .tag, .love {
+.icono-rojo {
 	font-size: 100px;
 	color: #DA2C38;
 }
