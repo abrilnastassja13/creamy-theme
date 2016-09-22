@@ -1,0 +1,60 @@
+/* Inserta tu código aquí */
+
+.position {
+	margin-bottom: 0;
+}
+
+.navbar {
+	background-color: #DA2C38;
+}
+
+.texto-amarillo {
+	color: #F4F0A6;
+}
+
+.icon-bar {
+	background-color: grey;
+}
+
+.fuente-merri {
+	font-family: 'Merriweather', serif;
+}
+
+.fuente-open {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.creamy {
+	background-image: url(../img/creamy.jpg);
+	background-position: center;
+	height: 500px;
+	background-size: cover;
+}
+
+.cuadro-oscuro {
+	background-color: rgba(7, 7, 7, 0.5);
+	padding: 140px 0;
+	opacity: 0.5;
+	filter: alpha(opacity=);
+}
+
+.fondo-amarillo {
+	background-color: #F4F0A6;
+}
+
+.texto-rojo {
+	color: #DA2C38;
+}
+
+.fondo-rojo {
+	background-color: #DA2C38;
+}
+
+.iconos {
+	padding: 5%;
+}
+
+.desktop, .tag, .love {
+	font-size: 100px;
+	color: #DA2C38;
+}
